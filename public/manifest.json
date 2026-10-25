@@ -1,0 +1,15 @@
+{
+  "name": "Ruang Baca — Kurasi Novel Editorial",
+  "short_name": "RuangBaca",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF6EE",
+  "theme_color": "#8B6B4A",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=192&q=80",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
+}
